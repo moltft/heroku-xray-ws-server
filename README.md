@@ -16,7 +16,7 @@
 - Protocol : VLESS
 - UUID : Your UUID
 - Host : Your Heroku app URL
-- Port : 443
+- Port : 443 if donot work "80"
 - Parth : Keep Empty or /
 - Network : WS (websocket) [It's mean your isp's bug-host or Free Host in this case]
 
